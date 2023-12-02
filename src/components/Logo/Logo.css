@@ -1,0 +1,10 @@
+.logoContainer {
+    position: absolute;
+    top: 2vh;
+    left: 0;
+    width: 20%;
+}
+
+.logo {
+    max-width: 100%;
+}

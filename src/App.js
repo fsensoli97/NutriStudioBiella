@@ -1,23 +1,19 @@
-import logo from './logo.svg';
+import { HashRouter, Routes, Route } from "react-router-dom";
+import Home from "./components/Home/Home";
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <HashRouter>
+        <Routes>
+          <Route path="/" element={<Home></Home>}></Route>
+          {/*<Route path="/about" element={<Location></Location>}></Route>
+          <Route path="/tariffario" element={<Schedule></Schedule>}></Route>
+          <Route path="/location" element={<Contacts></Contacts>}></Route>
+          <Route path="/recensioni" element={<Settings setDarkMode={setDarkMode}></Settings>}></Route>*/}
+        </Routes>
+      </HashRouter>
     </div>
   );
 }
