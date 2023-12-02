@@ -1,0 +1,23 @@
+.navLink {
+    color: inherit;
+    text-decoration: none;
+}
+
+.navigation {
+    display: flex;
+    flex-direction: column;
+    font-size: large;
+    padding: 1vh 0;
+}
+
+.navigationRow {
+    display: flex;
+    justify-content: center;
+    column-gap: 12vw;
+    padding: 1vh 0;
+    border-top: solid 1px rgb(215, 215, 215);
+}
+
+.navigationItem {
+
+}

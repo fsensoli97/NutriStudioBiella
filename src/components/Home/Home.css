@@ -1,0 +1,25 @@
+.homeTitle {
+    display: flex;
+    flex-direction: column;
+    row-gap: 1vh;
+    margin: 3vh;
+    text-align: center;
+    font-size: larger;
+}
+
+.homeTitleText {
+
+}
+
+.studioPic {
+    width: 86%;
+    padding: 2vh 7vw;
+}
+
+.studio {
+    max-width: 100%;
+}
+
+.studioDescription {
+    padding: 1vh 7vw;
+}

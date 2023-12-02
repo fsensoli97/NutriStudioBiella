@@ -18,7 +18,9 @@ export default function Home() {
                 <img className='studio' src={studioPic} alt='studio'></img>
             </div>
             <div className='studioDescription'>
-                A lot of text...
+                studio description random text studio description random text
+                studio description random text studio description random text
+                studio description random text studio description random text
             </div>
             <Footer></Footer>
         </>

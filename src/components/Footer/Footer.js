@@ -1,5 +1,5 @@
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faMailBulk, faPhone } from "@fortawesome/free-solid-svg-icons";
+import { faMailBulk, faPhone, faClock } from "@fortawesome/free-solid-svg-icons";
 import { faInstagram } from '@fortawesome/free-brands-svg-icons';
 import './Footer.css'
 
@@ -29,6 +29,14 @@ export default function Footer() {
                     </div>
                     <div className="contactValue">
                         @nutristudiobiella
+                    </div>
+                </div>
+                <div className="footerItem">
+                    <div className="contactType">
+                        <FontAwesomeIcon icon={faClock} size="2x"></FontAwesomeIcon>
+                    </div>
+                    <div className="contactValue">
+                        Lun-Ven: 8:00-18:00
                     </div>
                 </div>
             </div>
