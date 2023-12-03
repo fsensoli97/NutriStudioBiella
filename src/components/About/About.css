@@ -9,6 +9,13 @@
     max-width: 25%;
 }
 
+@media screen and (min-width: 800px) {
+    .profilePic {
+        min-width: 15%;
+        max-width: 15%;
+    }
+}
+
 .profile {
     width: 100%;
 }

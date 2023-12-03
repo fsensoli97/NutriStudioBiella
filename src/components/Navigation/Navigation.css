@@ -10,6 +10,12 @@
     padding: 1vh 0;
 }
 
+@media screen and (min-width: 800px) {
+    .navigation {
+        padding: 6vh 0;
+    }
+}
+
 .navigationRow {
     display: flex;
     justify-content: center;

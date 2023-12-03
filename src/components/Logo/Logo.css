@@ -6,6 +6,12 @@
     z-index: -1;
 }
 
+@media screen and (min-width: 800px) {
+    .logoContainer {
+        width: 9%;
+    }
+}
+
 .logo {
     max-width: 100%;
 }
