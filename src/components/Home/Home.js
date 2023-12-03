@@ -1,5 +1,4 @@
-import Logo from '../Logo/Logo'
-import Navigation from '../Navigation/Navigation';
+import Header from '../Header/Header';
 import studioPic from '../../gallery/studio.jfif';
 import Footer from '../Footer/Footer';
 import './Home.css'
@@ -7,13 +6,7 @@ import './Home.css'
 export default function Home() {
     return (
         <>
-            <Logo></Logo>
-            <div className='homeTitle'>
-                <div className='homeTitleText'>Dott.ssa Laetitia Bof</div>
-                <div className='homeTitleText'>Dietista Nutrizionista</div>
-            </div>
-            <Navigation></Navigation>
-
+            <Header></Header>
             <div className='studioPic'>
                 <img className='studio' src={studioPic} alt='studio'></img>
             </div>

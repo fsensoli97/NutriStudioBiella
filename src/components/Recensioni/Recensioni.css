@@ -1,0 +1,6 @@
+.recensioniContainer {
+    display: flex;
+    flex-direction: column;
+    row-gap: 3vh;
+    padding: 3vh 7vw;
+}

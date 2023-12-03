@@ -1,0 +1,8 @@
+.headerTitle {
+    display: flex;
+    flex-direction: column;
+    row-gap: 1vh;
+    margin: 3vh;
+    text-align: center;
+    font-size: larger;
+}

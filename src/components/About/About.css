@@ -1,5 +1,12 @@
+.aboutContainer {
+    display: flex;
+    column-gap: 5vw;
+    padding: 3vh 5vw;
+}
+
 .profilePic {
-    width: 30%;
+    min-width: 25%;
+    max-width: 25%;
 }
 
 .profile {

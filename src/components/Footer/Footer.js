@@ -9,10 +9,10 @@ export default function Footer() {
             <div className="footer">
                 <div className="footerItem">
                     <div className="contactType">
-                        <a href="tel:+39 3487380120"><FontAwesomeIcon icon={faPhone} size="2x"></FontAwesomeIcon></a>
+                        <FontAwesomeIcon icon={faPhone} size="2x"></FontAwesomeIcon>
                     </div>
                     <div className="contactValue">
-                        +39 3487380120
+                        <a href="tel:+39 3487380120">+39 3487380120</a>
                     </div>
                 </div>
                 <div className="footerItem">
@@ -25,10 +25,10 @@ export default function Footer() {
                 </div>
                 <div className="footerItem">
                     <div className="contactType">
-                        <a target="_blank" rel='noopener noreferrer' href="https://www.facebook.com/"><FontAwesomeIcon icon={faInstagram} size="2x"></FontAwesomeIcon></a>
+                        <FontAwesomeIcon icon={faInstagram} size="2x"></FontAwesomeIcon>
                     </div>
                     <div className="contactValue">
-                        @nutristudiobiella
+                        <a target="_blank" rel='noopener noreferrer' href="https://www.facebook.com/">@nutristudiobiella</a> 
                     </div>
                 </div>
                 <div className="footerItem">
@@ -36,7 +36,7 @@ export default function Footer() {
                         <FontAwesomeIcon icon={faClock} size="2x"></FontAwesomeIcon>
                     </div>
                     <div className="contactValue">
-                        Lun-Ven: 8:00-18:00
+                        Lun-Ven: 8:30-18:30
                     </div>
                 </div>
             </div>

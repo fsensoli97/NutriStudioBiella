@@ -1,0 +1,15 @@
+.pricesContainer {
+    display: flex;
+    flex-direction: column;
+    row-gap: 2vh;
+    padding: 3vh 5vw;
+}
+
+.pricesTitle {
+    color: rgb(235, 30, 30);
+    font-size: large;
+} 
+
+.pricesDescription {
+
+}

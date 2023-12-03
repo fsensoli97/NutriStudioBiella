@@ -1,9 +1,9 @@
 .footer {
     display: flex;
     flex-direction: column;
-    align-items: center;
+    align-items: left;
     row-gap: 2vh;
-    padding: 3vh 0;
+    padding: 3vh 7vw;
     margin-bottom: 3vh;
 }
 
@@ -19,4 +19,5 @@
 
 a {
     color: inherit;
+    text-decoration: none;
 }

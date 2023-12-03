@@ -1,0 +1,15 @@
+.recensioneContainer {
+    display: flex;
+    flex-direction: column;
+    row-gap: 0.5vh;
+    padding: 1vh 1vw;
+    border: solid 1px rgb(215, 215, 215);
+}
+
+.utenteRecensione {
+    font-weight: 500;
+}
+
+.ratingStar {
+    color: rgb(237, 237, 34);
+}
