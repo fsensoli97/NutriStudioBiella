@@ -12,7 +12,7 @@ export default function Footer() {
                         <FontAwesomeIcon icon={faPhone} size="2x"></FontAwesomeIcon>
                     </div>
                     <div className="contactValue">
-                        <a href="tel:+39 3487380120">+39 3487380120</a>
+                        <a href="tel:+39 3889010030">+39 3889010030</a>
                     </div>
                 </div>
                 <div className="footerItem">

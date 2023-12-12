@@ -7,10 +7,15 @@ export default function Location() {
         <>
             <Header></Header>
             <div className='mapsDescription'>
-                Posizionato accanto al comune di Cerrione (via Monte Bianco 49),
-                a circa 10 minuti di macchina dal centro di Biella.<br></br>
-                Ampia zona parcheggio proprio davanti all'ingresso.<br></br>
-                Lo studio è situato al primo piano e provvisto di servizi igienici.<br></br>
+            Il locale è situato a Cerrione (BI) in via Cascina Zanga 8.<br></br>
+            Proprio di fianco al comune di Cerrione, infatti in caso il navigatore non trovasse la cia consiglio di 
+            inserire “via l’onte bianco 49” (indirizzo del comune confinante).<br></br><br></br>
+            Come raggiungere la struttura:<br></br>
+            - dal centro di biella seguire la tangenziale ovest fino al suo termine; all’incrocio proseguire dritto 
+            attraversando l’incrocio e entrando nel piazzale privato (non girare né a destra né a sinistra).<br></br>
+            - dall’autostrada A4 prendere l’uscita di santhia proseguendo in direzione biella fino a raggiungere 
+            la località di Vergnasco, qui alla prima rotonda alla francese girare a sinistra e dopo 1,2 km girare 
+            a sinistra entrando nel piazzale privato.
             </div>
             <div className="mapsContainer">
                 <iframe 
