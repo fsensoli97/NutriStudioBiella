@@ -1,12 +1,18 @@
 .aboutContainer {
     display: flex;
-    column-gap: 5vw;
-    padding: 3vh 5vw;
+    align-items: center;
+    column-gap: 4vw;
+    padding: 3vh 6vw;
+}
+
+.aboutTextOnly {
+    padding: 0 6vw;
+    padding-bottom: 3vh;
 }
 
 .profilePic {
-    min-width: 25%;
-    max-width: 25%;
+    min-width: 30%;
+    max-width: 30%;
 }
 
 @media screen and (min-width: 800px) {
