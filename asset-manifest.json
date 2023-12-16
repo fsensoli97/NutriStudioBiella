@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/NutriStudioBiella/static/css/main.8cb8de41.css",
-    "main.js": "/NutriStudioBiella/static/js/main.c0d54dd2.js",
+    "main.css": "/NutriStudioBiella/static/css/main.0e068467.css",
+    "main.js": "/NutriStudioBiella/static/js/main.28fc239e.js",
     "static/js/787.d5fa4d18.chunk.js": "/NutriStudioBiella/static/js/787.d5fa4d18.chunk.js",
     "static/media/laetitiaPic1.jpg": "/NutriStudioBiella/static/media/laetitiaPic1.e37fe05e21ef862c2920.jpg",
     "static/media/logo.png": "/NutriStudioBiella/static/media/logo.5afc40ddf66bcfb42b9f.png",
     "static/media/studio.jfif": "/NutriStudioBiella/static/media/studio.a7e36be26267731ca3e2.jfif",
     "index.html": "/NutriStudioBiella/index.html",
-    "main.8cb8de41.css.map": "/NutriStudioBiella/static/css/main.8cb8de41.css.map",
-    "main.c0d54dd2.js.map": "/NutriStudioBiella/static/js/main.c0d54dd2.js.map",
+    "main.0e068467.css.map": "/NutriStudioBiella/static/css/main.0e068467.css.map",
+    "main.28fc239e.js.map": "/NutriStudioBiella/static/js/main.28fc239e.js.map",
     "787.d5fa4d18.chunk.js.map": "/NutriStudioBiella/static/js/787.d5fa4d18.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8cb8de41.css",
-    "static/js/main.c0d54dd2.js"
+    "static/css/main.0e068467.css",
+    "static/js/main.28fc239e.js"
   ]
 }
