@@ -28,7 +28,7 @@ export default function Footer() {
                         <FontAwesomeIcon icon={faInstagram} size="2x"></FontAwesomeIcon>
                     </div>
                     <div className="contactValue">
-                        <a target="_blank" rel='noopener noreferrer' href="https://www.facebook.com/">@nutristudiobiella</a> 
+                        <a target="_blank" rel='noopener noreferrer' href="https://www.instagram.com/nutristudiobiella/">@nutristudiobiella</a> 
                     </div>
                 </div>
                 <div className="footerItem">

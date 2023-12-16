@@ -12,7 +12,7 @@ export default function About() {
                     <img className='profile' src={profilePic1} alt='profile'></img>
                 </div>
                 <div className='aboutText'>
-                    Sono Laetitia Bof Dietista Nutrizionista<br></br>
+                    Sono Laetitia Bof Dietista Nutrizionista.<br></br>
                     Ho frequentato il Liceo Scientifico Tradizionale, avendo fin da subito le idee molto chiare su cosa 
                     avrei voluto fare, infatti, dopo aver ricevuto il diploma ho subito iniziato a preparare il Test 
                     d’Ammissione al corso di Dietistica all’università degli Studi di Milano.
@@ -61,7 +61,7 @@ export default function About() {
                 controindicazione fornendo solo mezzi per il miglioramento della nostra condizione. La nutrizione 
                 si presente come punto cruciale in diverse occasioni: miglioramento della composizione corporea, 
                 perdita di grasso, aumento delle prestazioni sportive e lavorative, diminuzione dello stress e/o 
-                dolore provocato da patologie croniche..
+                dolore provocato da patologie croniche.
             </div>
             <Footer></Footer>
         </>

@@ -8,8 +8,19 @@
 .pricesTitle {
     color: rgb(235, 30, 30);
     font-size: large;
+    font-weight: bold;
 } 
+
+.listItem {
+    padding: 0.5vh 0;
+}
 
 .pricesDescription {
 
+}
+
+.percorsoTitle {
+    font-size: large;
+    font-weight: bold;
+    padding: 0.5vh 0;
 }
