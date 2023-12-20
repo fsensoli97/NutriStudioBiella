@@ -12,8 +12,9 @@ export default function Prices() {
                     <ul>
                         <li className="listItem">Esami del sangue (effettuati entro gli ultimi 12 mesi).</li>
                         <li className="listItem">Referto medico inerente a eventuali patologie in corso.</li>
-                        <li className="listItem">Impegnativa scritta dal medico di base per “visita dietistica” (che può essere compilata dal 
-                            medico anche online).
+                        <li className="listItem">Impegnativa scritta dal medico di base per “visita dietistica”
+                            (è sufficiente richiedere al medico di base la ricetta bianca valida anche per il sistema sanitario nazionale
+                            che può essere inviata per mail).
                         </li>
                     </ul> 
                 </div>

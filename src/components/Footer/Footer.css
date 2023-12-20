@@ -3,13 +3,18 @@
     flex-direction: column;
     align-items: left;
     row-gap: 2vh;
-    padding: 3vh 7vw;
+    margin: 2vh 6vw;
+    padding: 1vh 1vh;
     margin-bottom: 3vh;
+    background-image: url('../../gallery/theme.jpg');
+    width: fit-content;
+    border: solid 1px rgb(215, 215, 215);
 }
 
 @media screen and (min-width: 800px) {
     .footer {
-        padding: 6vh 7vw;
+        margin: 5vh 6vw;
+        padding: 1vw 1vw;
     }
 }
 

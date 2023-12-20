@@ -39,6 +39,17 @@ export default function Footer() {
                         Lun-Ven: 8:30-18:30
                     </div>
                 </div>
+                <div style={{padding: "2vh 0"}}></div>
+                <div className="footerItem">
+                    <div className="contactValue">
+                        P. IVA: 1234567890987654321
+                    </div>
+                </div>
+                <div className="footerItem">
+                    <div className="contactValue">
+                        Iscritta regolarmente all'albo "texttext"
+                    </div>
+                </div>
             </div>
         </>
     );

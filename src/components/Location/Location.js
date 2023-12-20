@@ -8,8 +8,8 @@ export default function Location() {
             <Header></Header>
             <div className='mapsDescription'>
             Il locale è situato a Cerrione (BI) in via Cascina Zanga 8.<br></br>
-            Proprio di fianco al comune di Cerrione, infatti in caso il navigatore non trovasse la cia consiglio di 
-            inserire “via l’onte bianco 49” (indirizzo del comune confinante).<br></br><br></br>
+            Proprio di fianco al comune di Cerrione, infatti in caso il navigatore non trovasse la via consiglio di 
+            inserire “via Monte Bianco 49” (indirizzo del comune confinante).<br></br><br></br>
             Come raggiungere la struttura:
             <ul>
                 <li className='listItem'>

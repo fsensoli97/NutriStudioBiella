@@ -8,7 +8,7 @@ export default function Header() {
             <Logo></Logo>
             <div className='headerTitle'>
                 <div className='headerTitleText'>Dott.ssa Laetitia Bof</div>
-                <div className='headerTitleText'>Dietista Nutrizionista</div>
+                <div className='headerTitleText'><b>Dietista Nutrizionista</b></div>
             </div>
             <Navigation></Navigation>
         </>
