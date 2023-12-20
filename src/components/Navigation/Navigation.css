@@ -9,6 +9,7 @@
     font-size: large;
     margin: 1vh 0;
     background-image: url('../../gallery/theme.jpg');
+    background-size: cover;
 }
 
 @media screen and (min-width: 800px) {

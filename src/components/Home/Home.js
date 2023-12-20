@@ -1,5 +1,5 @@
 import Header from '../Header/Header';
-import studioPic from '../../gallery/studio.jfif';
+import studioPic from '../../gallery/studio2.png';
 import salaPic from '../../gallery/salaAttesa.jpg';
 import Footer from '../Footer/Footer';
 import './Home.css'
