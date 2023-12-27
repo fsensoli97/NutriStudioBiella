@@ -13,6 +13,14 @@
     padding: 1vh 7vw;
 }
 
+.homeAnnuncio {
+    margin: 2vh 4vw;
+    padding: 2vh 3vw;
+    margin-bottom: 5vh;
+    border: solid 2px rgb(255, 0, 0, 0.5);
+    border-radius: 4px;
+}
+
 @media screen and (min-width: 800px) {
     .studioDescription {
         padding: 5vh 7vw;
@@ -26,5 +34,9 @@
     .homePicsContainer {
         display: flex;
         padding: 0 5vw;
+    }
+
+    .homeAnnuncio {
+        margin-bottom: 5vw;
     }
 }

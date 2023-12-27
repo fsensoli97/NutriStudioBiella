@@ -88,8 +88,8 @@ export default function Prices() {
                     singolo) a cui si aggiunge una attenzione peculiare all’insegnamento delle buone norme per 
                     una sana alimentazione. Questo percorso è adatto a tutti coloro che non hanno nessun tipo di 
                     problematica, ma vogliono “imparare a mangiare” nel modo corretto, a saper accostare i giusti 
-                    alimenti nei pasti e avere una alimentazione bilanciata e sana.<br></br>
-                    <b>Costo totale: €110.</b>
+                    alimenti nei pasti, senza per forza ricevere una dieta programmata, e avere una alimentazione bilanciata e sana.<br></br>
+                    <b>Costo totale: €120.</b>
                 </div>
                 <div className="pricesDescription">
                 <div className="percorsoTitle">7. ANALISI DELLA COMPOSIZIONE CORPOREA</div>
@@ -101,9 +101,10 @@ export default function Prices() {
                     Se, dopo aver fatto questa visita, si vuole intraprendere 
                     uno dei percorsi sopracitati sarà applicato uno sconto di €50.
                 </div>
-                <div className="pricesDescription">
-                    <br></br>*Per tutti i percorsi da trimestrale ad annuale è possibile rateizzare la somma totale! 
-                </div>
+            </div>
+            <div className="extraDescription">
+                Per tutti i percorsi da trimestrale ad annuale è possibile rateizzare la somma totale! <br></br><br></br>
+                Se, dopo aver completato il percorso singolo, si vuole accedere a uno dei percorsi (da trimestrale ad annuale) il costo della prima visita verrà detratto da quello del percorso scelto.
             </div>
             <Footer></Footer>
         </>

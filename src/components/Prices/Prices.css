@@ -19,6 +19,22 @@
 
 }
 
+.extraDescription {
+    margin: 2vh 4vw;
+    margin-bottom: 6vh;
+    padding: 2vw 2vw;
+    border: solid 1.5px rgb(200, 200, 200);
+    border-radius: 4px;
+}
+
+@media screen and (min-width: 800px) {
+    .extraDescription {
+        margin: 2vh 6vw;
+        padding: 1vh 1vh;
+        margin-bottom: 5vw;
+    }
+}
+
 .percorsoTitle {
     font-size: large;
     font-weight: bold;
