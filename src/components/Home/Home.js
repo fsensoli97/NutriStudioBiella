@@ -28,7 +28,7 @@ export default function Home() {
                 L’affitto dell’area può avvenire in diverse modalità che possono essere concordate (affitto mensile stabile,
                 occupazione saltuaria dell’area per uno o più giorni a settimana..) in modo da creare una team professionale
                 a disposizione del prossimo e pronto a offrire un percorso completo sotto più punti di vista.<br></br>
-                Per qualsiasi informazione aggiuntiva o per fissare una visita per visionare gli spazi non esitate a contattarmi!!
+                Per qualsiasi informazione aggiuntiva o per fissare una visita per visionare gli spazi non esitate a contattarmi!
             </div>
             <Footer></Footer>
         </>
