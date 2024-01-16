@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/NutriStudioBiella/static/css/main.142faf3b.css",
-    "main.js": "/NutriStudioBiella/static/js/main.adb246da.js",
-    "static/js/787.d5fa4d18.chunk.js": "/NutriStudioBiella/static/js/787.d5fa4d18.chunk.js",
-    "static/media/studio_2.jpeg": "/NutriStudioBiella/static/media/studio_2.b7e33ebf2a64aa8df148.jpeg",
-    "static/media/studio_1.jpeg": "/NutriStudioBiella/static/media/studio_1.5b3dbb1aa1ab1db2bfce.jpeg",
-    "static/media/laetitiaPic_2.jpeg": "/NutriStudioBiella/static/media/laetitiaPic_2.0e13397a8a9bfb129cf4.jpeg",
-    "static/media/logo.png": "/NutriStudioBiella/static/media/logo.5afc40ddf66bcfb42b9f.png",
-    "static/media/laetitiaPic_1.jpeg": "/NutriStudioBiella/static/media/laetitiaPic_1.0bfa512b699f51fc5bd6.jpeg",
-    "static/media/theme.jpg": "/NutriStudioBiella/static/media/theme.0ebb1fb466bfc84a2557.jpg",
-    "index.html": "/NutriStudioBiella/index.html",
-    "main.142faf3b.css.map": "/NutriStudioBiella/static/css/main.142faf3b.css.map",
-    "main.adb246da.js.map": "/NutriStudioBiella/static/js/main.adb246da.js.map",
-    "787.d5fa4d18.chunk.js.map": "/NutriStudioBiella/static/js/787.d5fa4d18.chunk.js.map"
+    "main.css": "/static/css/main.c935a650.css",
+    "main.js": "/static/js/main.15371c58.js",
+    "static/js/787.d5fa4d18.chunk.js": "/static/js/787.d5fa4d18.chunk.js",
+    "static/media/studio_2.jpeg": "/static/media/studio_2.b7e33ebf2a64aa8df148.jpeg",
+    "static/media/studio_1.jpeg": "/static/media/studio_1.5b3dbb1aa1ab1db2bfce.jpeg",
+    "static/media/laetitiaPic_2.jpeg": "/static/media/laetitiaPic_2.0e13397a8a9bfb129cf4.jpeg",
+    "static/media/logo.png": "/static/media/logo.5afc40ddf66bcfb42b9f.png",
+    "static/media/laetitiaPic_1.jpeg": "/static/media/laetitiaPic_1.0bfa512b699f51fc5bd6.jpeg",
+    "static/media/theme.jpg": "/static/media/theme.0ebb1fb466bfc84a2557.jpg",
+    "index.html": "/index.html",
+    "main.c935a650.css.map": "/static/css/main.c935a650.css.map",
+    "main.15371c58.js.map": "/static/js/main.15371c58.js.map",
+    "787.d5fa4d18.chunk.js.map": "/static/js/787.d5fa4d18.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.142faf3b.css",
-    "static/js/main.adb246da.js"
+    "static/css/main.c935a650.css",
+    "static/js/main.15371c58.js"
   ]
 }
