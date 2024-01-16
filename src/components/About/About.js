@@ -1,6 +1,7 @@
 import Header from '../Header/Header';
 import Footer from '../Footer/Footer';
-import profilePic1 from '../../gallery/laetitiaPic1.jpg'
+import profilePic1 from '../../gallery/laetitiaPic_1.jpeg'
+import profilePic2 from '../../gallery/laetitiaPic_2.jpeg'
 import './About.css';
 
 export default function About() {
@@ -48,7 +49,7 @@ export default function About() {
                 occasioni conviviali imparando <span style={{backgroundColor: "#e6b3ff"}}>l'autogestione</span>.<br></br>
                 </div>
                 <div className='profilePic'>
-                    <img className='profile' src={profilePic1} alt='profile'></img>
+                    <img className='profile' src={profilePic2} alt='profile'></img>
                 </div>
             </div>
             <div className='aboutTextOnly'>

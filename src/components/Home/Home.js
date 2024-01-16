@@ -1,6 +1,6 @@
 import Header from '../Header/Header';
-import studioPic from '../../gallery/studio2.png';
-import salaPic from '../../gallery/salaAttesa.jpg';
+import studioPic from '../../gallery/studio_1.jpeg';
+import salaPic from '../../gallery/studio_2.jpeg';
 import Footer from '../Footer/Footer';
 import './Home.css'
 

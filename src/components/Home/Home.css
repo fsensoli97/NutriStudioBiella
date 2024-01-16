@@ -1,12 +1,23 @@
+@media screen and (max-width: 800px) {
+
+    .homePicsContainer {
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-auto-rows: 32vh;
+        row-gap: 5vh;
+        padding: 4vh 7vw;
+    }
+}
+
 .studioPic {
     display: flex;
     justify-content: center;
-    width: 86%;
-    padding: 2vh 7vw;
+    width: 100%;
 }
 
 .studio {
     max-width: 100%;
+    object-fit: cover;
 }
 
 .studioDescription {

@@ -43,8 +43,8 @@ export default function Footer() {
             <div className="pIVA">
                 <div className="pIVAitem">
                     <div className="contactValue">
-                        <div style={{marginBottom: "1vh" }}>P. IVA: 1234567890987654321</div>
-                        Iscritta regolarmente all'albo "texttext"
+                        <div style={{marginBottom: "1vh" }}>P. IVA: 02790510024</div>
+                        <>{/*Iscritta regolarmente all'albo "texttext"*/}</>
                     </div>
                 </div>
             </div>
