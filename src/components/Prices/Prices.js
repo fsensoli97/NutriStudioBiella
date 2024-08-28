@@ -31,16 +31,16 @@ export default function Prices() {
                     <u>Non è compreso:</u> eventuale ricalcolo del piano 
                     nutrizionale per cambio esigenze, supporto on-line giornaliero (tramite whatsapp, messaggi, 
                     chiamate, mail).<br></br>
-                    <b>Costo totale: € 100.</b>
+                    <b>Costo totale: € 110.</b>
                 </div>
                 <div className="pricesDescription">
                 <div className="percorsoTitle">2. VISITA DI CONTROLLO</div>
                     Visita fissata in base alle necessità e/o a seconda dell’obiettivo 
                     fissato; qui si valuta la compliance, si risolvono eventuali dubbi o domande insorte, si 
                     apportano modifiche al piano alimentare in base a esigenze. Si valutano, poi, gli obiettivi 
-                    raggiunti e si ripete l’anamnesi antropocentrica e il calcolo della composizione corporea 
+                    raggiunti e si ripete l’anamnesi antropometrica e il calcolo della composizione corporea 
                     tramite BIVA.<br></br>
-                    <b>Costo totale: € 40.</b><br></br>
+                    <b>Costo totale: € 50.</b><br></br>
                     <u>È possibile fare tutte le visite di controllo on-line!</u>
                 </div>
                 <div className="pricesDescription">
@@ -53,7 +53,15 @@ export default function Prices() {
                     chiamate) per qualsiasi piccolo dubbio o domanda che potrebbe sorgere, calcolo di un menu 
                     settimanale su richiesta, calcolo di pasti in base a ciò che è disponibili in occasioni e/o eventi 
                     speciali.<br></br>
-                    <b>Costo totale: € 230.</b>
+                    <b>Costo totale: € 250.</b><br></br><br></br>
+                    <b>Percorso trimestrale preparazione sportiva</b><br></br>
+                    Declinazione del percorso specifica per sportivi ed atleti che comprende anche la somministrazione
+                    di materiale specifico per il miglioramento della performance ed efficienza fisica, del recupero
+                    e del benessere psico-fisico.<br></br>
+                    Verrà, inoltre, fornito un file Excel condiviso per l'aggiornamento dei parametri antropometrici
+                    (peso, BMI, circonferenza vita, circonferenza braccio), l'andamento dello schema dietetico, della
+                    qualità del sonno e della capacità di recupero.<br></br>
+                    <b>Costo totale: € 280.</b>
                 </div>
                 <div className="pricesDescription">
                 <div className="percorsoTitle">4. PERCORSO SEMESTRALE</div>
@@ -65,7 +73,7 @@ export default function Prices() {
                     supporto on-line giornaliero (tramite whatsapp, messaggi, mail o chiamate) per qualsiasi 
                     piccolo dubbio o domanda che potrebbe sorgere, calcolo di un menu settimanale su richiesta, 
                     calcolo di pasti in base a ciò che è disponibili in occasioni e/o eventi speciali.<br></br>
-                    <b>Costo totale: € 430.</b>
+                    <b>Costo totale: € 450.</b>
                 </div>
                 <div className="pricesDescription">
                 <div className="percorsoTitle">5.  PERCORSO ANNUALE</div>
