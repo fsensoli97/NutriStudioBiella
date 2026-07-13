@@ -40,7 +40,7 @@ export default function Prices() {
                     apportano modifiche al piano alimentare in base a esigenze. Si valutano, poi, gli obiettivi 
                     raggiunti e si ripete l’anamnesi antropometrica e il calcolo della composizione corporea 
                     tramite BIVA.<br></br>
-                    <b>Costo totale: € 50.</b><br></br>
+                    <b>Costo totale: € 60.</b><br></br>
                     <u>È possibile fare tutte le visite di controllo on-line!</u>
                 </div>
                 <div className="pricesDescription">
@@ -73,7 +73,7 @@ export default function Prices() {
                     supporto on-line giornaliero (tramite whatsapp, messaggi, mail o chiamate) per qualsiasi 
                     piccolo dubbio o domanda che potrebbe sorgere, calcolo di un menu settimanale su richiesta, 
                     calcolo di pasti in base a ciò che è disponibili in occasioni e/o eventi speciali.<br></br>
-                    <b>Costo totale: € 450.</b>
+                    <b>Costo totale: € 470.</b>
                 </div>
                 <div className="pricesDescription">
                 <div className="percorsoTitle">5.  PERCORSO ANNUALE</div>
@@ -88,7 +88,7 @@ export default function Prices() {
                     messaggi, mail o chiamate) per qualsiasi piccolo dubbio o domanda che potrebbe sorgere, 
                     calcolo di un menu settimanale su richiesta, calcolo di pasti in base a ciò che è disponibili in 
                     occasioni e/o eventi speciali.<br></br>
-                    <b>Costo totale: € 670.</b> 
+                    <b>Costo totale: € 700.</b> 
                 </div>
                 <div className="pricesDescription">
                 <div className="percorsoTitle">6. PERCORSO DI EDUCAZIONE ALIMENTARE</div>
